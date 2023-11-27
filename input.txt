@@ -1,0 +1,3 @@
+/home/ivan/data/image1/001.png,/home/ivan/data/image2/001.png
+/home/ivan/data/image1/002.png,/home/ivan/data/image2/002.png
+/home/ivan/data/image1/003.png,/home/ivan/data/image2/003.png
